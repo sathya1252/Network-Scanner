@@ -21,7 +21,8 @@ Installation:
 
 Clone the repository:
 
-    git clone https://github.com/yourusername/network-scanner.git
+    git clone https://github.com/sathya1252/network-scanner.git
+    
     cd network-scanner
 
 Install the required dependencies:

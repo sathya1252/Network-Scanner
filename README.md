@@ -14,8 +14,9 @@ Features:
 
 Requirements:
 
-  Python 3.x
-  Scapy
+  -> Python 3.x
+  
+  -> Scapy
 
 Installation:
 
